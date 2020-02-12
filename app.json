@@ -1,4 +1,6 @@
 {
+  "name": "Blank Template",
+  "displayName": "Display Name",
   "expo": {
     "name": "Blank Template",
     "slug": "bitrise-expo-sdk36",
